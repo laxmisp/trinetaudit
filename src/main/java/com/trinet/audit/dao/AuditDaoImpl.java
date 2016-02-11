@@ -5,7 +5,6 @@ import java.util.List;
 import org.apache.log4j.Logger;
 import org.springframework.stereotype.Repository;
 
-import com.trinet.audit.controller.AuditController;
 import com.trinet.audit.entity.AuditEvent;
 import com.trinet.audit.response.AuditReport;
 import com.trinet.audit.response.AuditResponse;
