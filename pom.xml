@@ -94,8 +94,8 @@
 	</build>
 
 	<scm>
-		<connection>scm:git:https://github.com/laxmisp/trinetaudit</connection>
+		<connection>scm:git:https://github.com/laxmisp/trinetaudit.git</connection>
 		<url>scm:git:https://github.com/laxmisp/trinetaudit</url>
-		<developerConnection>scm:git::https://github.com/laxmisp/trinetaudit</developerConnection>
+		<developerConnection>scm:git::https://github.com/laxmisp/trinetaudit.git</developerConnection>
 	</scm>
 </project>
